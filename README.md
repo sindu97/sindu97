@@ -1,4 +1,3 @@
-::: {align="center"}
 # Hi, I'm Surinder Rana 👋
 
 ### Full Stack AI Engineer \| Senior Backend Engineer
@@ -164,7 +163,3 @@ be shared when authorized.*
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-*I build practical software that brings together backend engineering,
-scalable systems, and applied AI.*
-:::

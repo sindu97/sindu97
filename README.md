@@ -90,10 +90,6 @@ AI-assisted learning on low-cost laptops without an internet connection.
 - Reduced false textbook citations from **4/10 to 0/10** in the reported evaluation.
 - **154 passing tests** across the reported validation work.
 
-> Add the public repository link here if the project is approved for
-> public sharing. Do not publish proprietary code, credentials, student
-> data, or internal documents.
-
 ### 2. NeuralShelf — Semantic Search & Chat over PDFs
 
 A full-stack RAG application: upload PDFs, search them by meaning, and ask
